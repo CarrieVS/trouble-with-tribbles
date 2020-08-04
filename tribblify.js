@@ -14,15 +14,15 @@ var tribblifyOn = "onmouseout";
 // Customise as you wish (must contain at least one entry)
 // It doesn't have to be tribbles. It works just as well with jellybeans, or cats
 var tribbles = [
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble01.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble02.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble03.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble04.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble05.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble06.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble07.png",
-		"http://i1171.photobucket.com/albums/r552/CarrieVS/tribbles/tribble08.png"
-	];
+	"https://ibb.co/vPg8gW3",
+	"https://ibb.co/PspGgGG",
+	"https://ibb.co/VVvvkYX",
+	"https://ibb.co/nkNXkCr",
+	"https://ibb.co/NNv6CjK",
+	"https://ibb.co/ySBGzGr",
+	"https://ibb.co/jGJvtR5",
+	"https://ibb.co/mB3X51b"
+];
 //////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////
 
